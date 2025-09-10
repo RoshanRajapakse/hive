@@ -70,7 +70,7 @@
     <derby.version>10.14.2.0</derby.version>
     <mariadb.version>2.5.0</mariadb.version>
     <mssql.version>6.2.1.jre8</mssql.version>
-    <mysql.version>8.0.27</mysql.version>
+    <mysql.version>8.0.31</mysql.version>
     <postgres.version>42.4.1</postgres.version>
     <oracle.version>21.3.0.0</oracle.version>
     <dropwizard-metrics-hadoop-metrics2-reporter.version>0.1.2
@@ -88,8 +88,8 @@
     <libthrift.version>0.16.0</libthrift.version>
     <log4j2.version>2.18.0</log4j2.version>
     <mockito-core.version>3.3.3</mockito-core.version>
-    <orc.version>1.6.9</orc.version>
-    <protobuf.version>3.21.7</protobuf.version>
+    <orc.version>1.9.0</orc.version>
+    <protobuf.version>3.25.5</protobuf.version>
     <io.grpc.version>1.51.0</io.grpc.version>
     <sqlline.version>1.9.0</sqlline.version>
     <jline.version>2.14.6</jline.version>
